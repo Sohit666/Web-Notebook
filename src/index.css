@@ -12,9 +12,9 @@ code {
     monospace;
 }
 
-.iconD{
+i{
   cursor: pointer;
 }
-.iconE{
+.fa-trash-alt{
   cursor: pointer;
 }

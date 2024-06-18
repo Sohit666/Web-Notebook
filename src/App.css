@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+
+
+.about-section {
+  padding: 60px 0;
+}
+
+.feature-box {
+  margin-bottom: 30px;
+}
+
+.feature-box i {
+  color: #007bff;
+}
+
+.team-section img {
+  width: 150px;
+  height: 150px;
+}
+
+.team-section h5 {
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.team-section p {
+  color: #777;
+}
